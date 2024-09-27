@@ -24,6 +24,6 @@ This dataset has information about customers and their orders from online sales 
 - Of all the categories purchased, 14% were sarees and 13% were hankerchief
 - State of Maharashtra is the place where most of purchases (94) were made for online sales
 - Profit at total, at max was $1864.00
-- Most items sold online together (quantity) wa 14, and the least at 1 purchase only
+- Most items sold online together (quantity) were 14, and the least at 1 purchase only
 - All these purchases were made within the year of 2018
 - Most of clothes that were sold online were trousers an T-shirts 
