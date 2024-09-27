@@ -12,8 +12,8 @@ This dataset has information about customers and their orders from online sales 
 ## Tools Used: 
 - SQL Server Management Studio (SSMS)
 ##   Dataset Source: 
-- Cars sales from Kaggle
-- Link to dataset: https://www.kaggle.com/gagandeep16/car-sales
+- Online Sales Data from Kaggle
+- Link to dataset: https://www.kaggle.com/datasets/samruddhi4040/online-sales-data
 -  CC0: Public Domain license: Meaning you can download it and work on it since it is public domain
 -  Note: Please don't copy my work from this project, feel free to download dataset from the link and do your own work
 
