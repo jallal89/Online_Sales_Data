@@ -19,6 +19,6 @@ This dataset has information about customers and their orders from online sales 
 
 ## Project Key Findings and Analysis 
 - Up to 60% of category purchases were clothes, followed by by Electronics at 21%
-- The least amount of purchase order was $4 dollars, and the highest paid for was $5729
+- The least amount of purchase order was $4 dollars, and the highest paid for was $5729 (likely for expensive electronics)
 - 46% of payments for online sales were made by COD (cash on delivery), much more than Credit cards and ther methods at 32%
 - Of all the clothers purchased, 14% were sarees and 13% were hankerchief
