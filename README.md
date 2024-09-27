@@ -4,16 +4,12 @@
 ## Discription: 
 This dataset has information about customers and their orders from online sales data. The dataset has two files, Orders, which include info about customers, such as their name, city, state and more; and the other file is purchase_details, which has details about orders such as profit, quantity, category of sales orders and more. First, I opened dataset in Excel, arranged everything, cleaned from emoty cells, incorrrect data. Then, I created a DB in SQL Server, imported the data and created 24 SELECT Statements (Queries) to explore the data. 
 ## Files in this project: 
-- car_sales_project.sql: Has all SQL Queries that were conducted in SSMS
-- queries_results.pdf: A PDF file of how queries results look when clicked on "Run" for each query in SQL
-- car_sales_excel.xlsx: excel file of dataset and all visuals and dashboard
-- Note: when you open excel file, it shows as "Row data" and when you click on it, it downloads to your computer as excel file
-- Once you open excel file on your computer, it will likely asks if you trust this file, the reason is because it is a public domain excel file on kaggle that many people use, but you can edit it, write in it, save your own version as you like, or, you can see dataset link in "Dataset Source" below and check it on Kaggle and download it from there if you prefer
+- online_sales_data.sql: This has all SQL querries and explanation for each
+- queries_results.PDF: This has answers for all queries, basically, it shows how results look in Grid when you click on "Run" in SQL Server
 ## Languages Used: 
 - SQL
 
 ## Tools Used: 
-- Excel
 - SQL Server Management Studio (SSMS)
 ##   Dataset Source: 
 - Cars sales from Kaggle
