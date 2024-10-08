@@ -11,6 +11,7 @@ This dataset has information about customers and their orders from online sales 
 
 ## Tools Used: 
 - SQL Server Management Studio (SSMS)
+- Tableau
 ##   Dataset Source: 
 - Online Sales Data from Kaggle
 - Link to dataset: https://www.kaggle.com/datasets/samruddhi4040/online-sales-data
