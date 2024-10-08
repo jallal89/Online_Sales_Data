@@ -23,12 +23,11 @@ This dataset has information about customers and their orders from online sales 
 -  Note: Please don't copy my work from this project, feel free to download dataset from the link and do your own work
 
 ## Project Key Findings and Analysis 
-- Up to 60% of category purchases were clothes, followed by by Electronics at 21%
-- The least amount of purchase order was $4 dollars, and the highest paid for was $5729 (likely for expensive electronics)
-- 46% of payments for online sales were made by COD (cash on delivery), much more than Credit cards and ther methods at 32%
-- Of all the categories purchased, 14% were sarees and 13% were hankerchief
-- State of Maharashtra is the place where most of purchases (94) were made for online sales
-- Profit at total, at max was $1864.00
-- Most items sold online together (quantity) were 14, and the least at 1 purchase only
-- All these purchases were made within the year of 2018
-- Most of clothes that were sold online were trousers and T-shirts 
+- Of all items, more money was spent on printers (electronics) than any other sub-category, $59,252.00
+- Saree (clothing category) had more online sales orders (quantity) than any other one, 795, while tables had the least, 61
+- A total of 2456 (quantity) items were purchased online by using the payment mode, COD (cash on delivery), while Debit card at 741
+- The city of Indore had the most online sales orders (940), while city of Prayagraj only had 43 in total, the least
+- Up to 25 cities in India had at least 40 online sales orders each, with Indore the most, 940
+- City of Indore had spend the most (amount) at $63,680.00, while Mumbai at second place, $58,886.00
+- City of Kashmire spent up to $10,829.00 by ordering 177 online sales items
+- 17 different sub-categories were purchased online by customers from India, with saree (clothes) the most, 795
