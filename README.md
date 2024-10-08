@@ -2,7 +2,7 @@
 
 
 ## Discription: 
-This dataset has information about customers and their orders from online sales data. The dataset has two files, Orders, which include info about customers, such as their name, city, state and more; and the other file is purchase_details, which has details about orders such as profit, quantity, category of sales orders and more. First, I opened dataset in Excel, arranged everything, cleaned from empty cells, incorrrect data. Then, I created a DB in SQL Server, imported the data, wrote and ran 24 SELECT Statements (Queries) to explore the data. 
+This dataset has information about customers and their orders from online sales data. The dataset has two files, Orders, which include info about customers, such as their name, city, state and more; and the other file is purchase_details, which has details about orders such as profit, quantity, category of sales orders and more. First, I opened dataset in Excel, arranged everything, cleaned from empty cells, incorrrect data. Then, I created a DB in SQL Server, imported the data, wrote and ran 24 SELECT Statements (Queries) to explore the data. The, I created a complete dashboard in Tableau, the link is provided in the "Tools Used" section below.
 ## Files in this project: 
 - online_sales_data.sql: This has all SQL querries and explanation for each
 - queries_results.PDF: This has answers for all queries, basically, it shows how results look in Grid when you click on "Run" in SQL Server
