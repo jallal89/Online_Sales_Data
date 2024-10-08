@@ -1,4 +1,4 @@
-# SQL and Tableau dashboard Project: Online_Sales_Data
+# SQL and Tableau Project: Online_Sales_Data
 
 
 ## Discription: 
