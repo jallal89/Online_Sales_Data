@@ -31,4 +31,4 @@ This dataset has information about customers and their orders from online sales 
 - Profit at total, at max was $1864.00
 - Most items sold online together (quantity) were 14, and the least at 1 purchase only
 - All these purchases were made within the year of 2018
-- Most of clothes that were sold online were trousers an T-shirts 
+- Most of clothes that were sold online were trousers and T-shirts 
