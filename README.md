@@ -6,6 +6,9 @@ This dataset has information about customers and their orders from online sales 
 ## Files in this project: 
 - online_sales_data.sql: This has all SQL querries and explanation for each
 - queries_results.PDF: This has answers for all queries, basically, it shows how results look in Grid when you click on "Run" in SQL Server
+- tableau_dashboard.pdf: A pdf that has all tableau work saved in it
+- Note: The link provided to Tableau Public shows the visualizations much better than the ones in pdf
+- Also: In the packed bubbles graph, some of the bubbles do not show labels until you click on them, this is due to Tableau label size and visibility 
 ## Languages Used: 
 - SQL
 
